@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      从一道网易面试题浅谈 Tagged Pointer
-subtitle:   浅谈 Tagged Pointer
+title:      SummerSlam Rating
+subtitle:   SummerSlam 2018
 date:       2017-12-26
-author:     BY
+author:     Zhuoqun
 header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
-    - iOS
+    - wrestling
 ---
 
 
