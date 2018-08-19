@@ -12,5 +12,5 @@ tags:
 
 
 ## Hey
->This is my first blog article.  I will add rating tonight.
+>This is my first blog article.  I will add rating tonight!
 
