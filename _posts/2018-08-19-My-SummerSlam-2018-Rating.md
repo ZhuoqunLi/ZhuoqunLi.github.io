@@ -4,7 +4,7 @@ title:      My SummerSlam 2018 Rating
 subtitle:   My very first wrestling ppv rating
 date:       2018-08-19
 author:     Zhuoqun
-header-img: http://lawrencecheng123.github.io/Seattle.jpg
+header-img: img/20180802_SummerSlam_Show_Hub-81176c672c292bdef770a9eaac836a84-1068x468.jpg
 catalog: true
 tags: -wrestling
 ---
