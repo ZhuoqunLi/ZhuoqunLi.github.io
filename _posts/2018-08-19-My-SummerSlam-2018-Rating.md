@@ -9,42 +9,32 @@ catalog: true
 tags: -wrestling
 ---
 
-### Dolph Ziggler (c) vs. Seth Rollins 
-
+### Dolph Ziggler (c) vs. Seth Rollins
 4
 
-### Bludgeon Brothers (c) vs. New Day 
-
+### Bludgeon Brothers (c) vs. New Day
 3.5
 
-### Braun Strowman (h) vs. Kevin Owens 
-
+### Braun Strowman (h) vs. Kevin Owens
 1
 
-### Carmella (c) vs. Becky Lynch vs. Charlotte 
-
+### Carmella (c) vs. Becky Lynch vs. Charlotte
 2.5
 
-### AJ Styles (c) vs. Samoa Joe 
-
+### AJ Styles (c) vs. Samoa Joe
 4
 
-### Daniel Bryan vs. The Miz 
-
+### Daniel Bryan vs. The Miz
 3.5
 
-### Finn Balor vs. Baron Corbin 
-
+### Finn Balor vs. Baron Corbin
 3
 
-### Shinsuke Nakamura (c) vs. Jeff Hardy 
-
+### Shinsuke Nakamura (c) vs. Jeff Hardy
 2
 
-### Alexa Bliss (c) vs. Ronda Rousey 
-
+### Alexa Bliss (c) vs. Ronda Rousey
 1.5
 
-### Brock Lesnar (c) vs. Roman Reigns 
-
+### Brock Lesnar (c) vs. Roman Reigns
 3
