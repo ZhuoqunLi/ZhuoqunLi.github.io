@@ -6,7 +6,7 @@ date:       2018-08-19
 author:     Zhuoqun
 header-img: img/20180802_SummerSlam_Show_Hub-81176c672c292bdef770a9eaac836a84-1068x468.jpg
 catalog: true
-tags: -wrestling
+tags: wrestling
 ---
 
 ### Dolph Ziggler (c) vs. Seth Rollins
